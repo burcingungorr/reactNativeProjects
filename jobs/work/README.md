@@ -12,3 +12,6 @@ Kullanıcılar iş ilanlarını inceleyebilir, detaylarına ulaşabilir ve ilgil
 Bu proje, kullanıcıların iş ilanlarını kolayca keşfetmesini ve favori işlerini kaydetmesini sağlamayı amaçlamaktadır.
 Kullanıcılar iş ilanlarını inceleyebilir, başvurularını organize edebilir ve favori ilanlarını daha sonra incelemek için kaydedebilirler.
 
+![Ekran görüntüsü 2025-04-01 231509](https://github.com/user-attachments/assets/38638808-4e18-450c-a036-3193bb13056c)
+![Ekran görüntüsü 2025-04-01 231515](https://github.com/user-attachments/assets/13c7b313-e4f0-4c86-badd-ba925e68d64b)
+![Ekran görüntüsü 2025-04-01 231531](https://github.com/user-attachments/assets/c15293b9-5539-4925-b72e-465f7e416cb5)
