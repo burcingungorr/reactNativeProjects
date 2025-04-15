@@ -1,0 +1,126 @@
+{
+  "easy": [
+    { 
+      "id": 1,
+      "question": "Dünyanın en yüksek dağı hangisidir?", 
+      "answer": "Everest", 
+      "options": ["Everest", "Kilimanjaro", "Fuji"] 
+    },
+    { 
+      "id": 2,
+      "question": "Türkiye'nin başkenti neresidir?", 
+      "answer": "Ankara", 
+      "options": ["İstanbul", "Ankara", "Bursa"] 
+    },
+    { 
+      "id": 3,
+      "question": "Ay hangi gezegenin uydusudur?", 
+      "answer": "Dünya", 
+      "options": ["Dünya", "Mars", "Venüs"] 
+    },
+    { 
+      "id": 4,
+      "question": "Bir yıl kaç aydan oluşur?", 
+      "answer": "12", 
+      "options": ["12", "13", "14"] 
+    },
+    { 
+      "id": 5,
+      "question": "Atatürk'ün doğum tarihi nedir?", 
+      "answer": "1881", 
+      "options": ["1881", "1900", "1920"] 
+    },
+    { 
+      "id": 6,
+      "question": "En büyük okyanus hangisidir?", 
+      "answer": "Pasifik Okyanusu", 
+      "options": ["Atlas Okyanusu", "Hint Okyanusu", "Pasifik Okyanusu"] 
+    },
+    { 
+      "id": 7,
+      "question": "Türkiye Cumhuriyeti'nin ilk Cumhurbaşkanı kimdir?", 
+      "answer": "Mustafa Kemal Atatürk", 
+      "options": ["Mustafa Kemal Atatürk", "İsmet İnönü", "Celal Bayar"] 
+    },
+    { 
+      "id": 8,
+      "question": "Hangi gezegen kırmızı gezegen olarak bilinir?", 
+      "answer": "Mars", 
+      "options": ["Venüs", "Mars", "Jüpiter"] 
+    },
+    { 
+      "id": 9,
+      "question": "En hızlı kara hayvanı hangisidir?", 
+      "answer": "Çita", 
+      "options": ["Çita", "Aslan", "Zebra"] 
+    },
+    { 
+      "id": 10,
+      "question": "Hangi ülke en kalabalık nüfusa sahiptir?", 
+      "answer": "Çin", 
+      "options": ["Hindistan", "Amerika", "Çin"] 
+    }
+  ],
+  "hard": [
+    { 
+      "id": 1,
+      "question": "Dünya'da toplam kaç kıta bulunmaktadır?", 
+      "answer": "7", 
+      "options": ["7", "5", "6"] 
+    },
+    { 
+      "id": 2,
+      "question": "Tarihteki en uzun savaş hangisidir?", 
+      "answer": "Yüz Yıl Savaşları", 
+      "options": ["Yüz Yıl Savaşları", "İkinci Dünya Savaşı", "I. Dünya Savaşı"] 
+    },
+    { 
+      "id": 3,
+      "question": "Antik Roma'da gladyatör dövüşleri hangi amaca hizmet etmiştir?", 
+      "answer": "Eğlence ve halkın moralini yüksek tutmak", 
+      "options": ["Savaş stratejilerini test etmek", "Eğlence ve halkın moralini yüksek tutmak", "Savaşçılar arasında güç gösterisi yapmak"] 
+    },
+    { 
+      "id": 4,
+      "question": "Fibonacci dizisinin ilk üç sayısı nedir?", 
+      "answer": "0, 1, 1", 
+      "options": ["1, 2, 3", "0, 1, 1", "1, 1, 2"] 
+    },
+    { 
+      "id": 5,
+      "question": "Hangi ülke dünyanın en eski bağımsız devletidir?", 
+      "answer": "San Marino", 
+      "options": ["San Marino", "Fransa", "İtalya"] 
+    },
+    { 
+      "id": 6,
+      "question": "En eski yazılı dil hangisidir?", 
+      "answer": "Sümerce", 
+      "options": ["Latince", "Arapça", "Sümerce"] 
+    },
+    { 
+      "id": 7,
+      "question": "Hangi gezegen, güneş sistemindeki en büyük gezegendir?", 
+      "answer": "Jüpiter", 
+      "options": ["Jüpiter", "Satürn", "Uranüs"] 
+    },
+    { 
+      "id": 8,
+      "question": "Dünyanın en büyük çölü hangisidir?", 
+      "answer": "Antarktika", 
+      "options": ["Sahara", "Antarktika", "Gobi"] 
+    },
+    { 
+      "id": 9,
+      "question": "İlk Nobel Edebiyat Ödülü'nü kazanan yazar kimdir?", 
+      "answer": "Sully Prudhomme", 
+      "options": ["Sully Prudhomme", "Victor Hugo", "Leo Tolstoy"] 
+    },
+    { 
+      "id": 10,
+      "question": "I. Dünya Savaşı'nın en uzun cephe hattı nerededir?", 
+      "answer": "İtalya Cephesi", 
+      "options": ["Batı Cephesi", "Doğu Cephesi", "İtalya Cephesi"] 
+    }
+  ]
+}

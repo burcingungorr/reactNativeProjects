@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "345490952820",
+    "project_id": "push-fac92",
+    "storage_bucket": "push-fac92.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345490952820:android:8f30dcfa35ee8b6abb7721",
+        "android_client_info": {
+          "package_name": "com.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyFv2mTH4xLxcWGDVhq0d8mlzqqT9OD28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
