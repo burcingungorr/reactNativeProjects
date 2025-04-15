@@ -8,4 +8,4 @@ Bu klasör, **React Native** öğrenirken geliştirdiğim temel uygulamaları i�
   ![React Native Logo](https://reactnative.dev/img/header_logo.svg)
 
 - **Firebase**: Veritabanı yönetimi ve kullanıcı kimlik doğrulama işlemleri için kullanılan bulut tabanlı platform.  
-  ![Firebase Logo](https://www.gstatic.com/devrel-devsite/prod/v3850818d00b51a46da2fc6b68a61fa95c90bbd9f1b2e8abef287b3980b3d358b/firebase/images/lockup.png)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/>  
