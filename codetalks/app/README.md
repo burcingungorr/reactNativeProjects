@@ -1,4 +1,5 @@
 💬 CodeTalks — Sohbet Odaları Uygulaması
+
 Bu proje, kullanıcıların odalar oluşturarak sohbet edebileceği bir platformdur!
 Kullanıcılar diledikleri odalarda sohbet edebilir, arkadaşlarıyla etkileşimde bulunabilir ve çeşitli konularda grup sohbetleri yapabilirler.
 
